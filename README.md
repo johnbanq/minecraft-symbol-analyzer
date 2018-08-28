@@ -12,5 +12,7 @@ Basic reassembling ability
     (generate simple class defintions from symbols)
 
 TODO: virtual function support
+
 TODO: pure virtual function inference
+
 TODO: template instantiation compression
